@@ -43,8 +43,3 @@
 !INCLUDE "references/interviews.overview.md"
 
 !INCLUDE "references/background_interviews.md"
-
-\newpage
-
-### Example
-!INCLUDE "guides/interviews/examples/interview_questions.md"

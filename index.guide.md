@@ -165,7 +165,15 @@
 \newpage
 <!-- APPENDIX A - Auditor travel Kit Checklist-->
 
-# APPENDIX A
+# APPENDIX A: Audit Preparation
+
+## Interview Resources
+
+!INCLUDE "content/guides/interviews/examples/outputs_needed.md"
+
+!INCLUDE "content/guides/interviews/examples/interview_questions.md"
+
+## Travel Checklist
 
 !INCLUDE "content/guides/preparation/examples/travel_kit_checklist.md"
 
