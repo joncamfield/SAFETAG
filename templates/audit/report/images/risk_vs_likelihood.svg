@@ -9,11 +9,11 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="744.09448819"
-   height="1052.3622047"
+   width="1278.9637"
+   height="948.74866"
    id="svg24515"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="risk_vs_likelihood.svg">
   <defs
      id="defs24517">
@@ -1177,17 +1177,21 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.47756483"
-     inkscape:cx="-798.74402"
-     inkscape:cy="538.51972"
+     inkscape:zoom="0.33768933"
+     inkscape:cx="2372.3431"
+     inkscape:cy="17.077984"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1366"
-     inkscape:window-height="702"
-     inkscape:window-x="0"
-     inkscape:window-y="27"
-     inkscape:window-maximized="1" />
+     inkscape:window-width="1871"
+     inkscape:window-height="1056"
+     inkscape:window-x="49"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <metadata
      id="metadata24520">
     <rdf:RDF>
@@ -1196,14 +1200,15 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(1420.14,-28.690053)">
     <path
        style="fill:none;stroke:#00467f;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        d="m -1090.1881,86.751636 c -7.6255,0 61.0043,0 61.0043,0"
@@ -1300,17 +1305,6 @@
        id="path25034-0"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccc" />
-    <text
-       id="text20432"
-       x="110.62525"
-       y="759.70911"
-       style="font-size:15px">
-      <tspan
-         style="font-size:11.25px;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;fill:#00467f;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Interstate;-inkscape-font-specification:Interstate-Regular"
-         x="110.62525"
-         y="759.70911"
-         id="tspan20434">3</tspan>
-    </text>
     <text
        id="text20436"
        x="-1424.5328"
@@ -1434,7 +1428,7 @@
          style="font-size:20px;font-variant:normal;font-weight:bold;font-stretch:condensed;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#00467f;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Interstate;-inkscape-font-specification:Interstate-BlackCondensed"
          sodipodi:role="line"
          x="-358.73486"
-         y="901.93707"
+         y="887.83673"
          id="tspan33507-6-3-5-6">(Will ABSOLUTELY happen in the next year)</tspan>
     </text>
   </g>

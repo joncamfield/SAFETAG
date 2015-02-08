@@ -14,7 +14,7 @@
    id="svg33932"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="risk_vs_difficulty.svg">
+   sodipodi:docname="impact_vs_severity.svg">
   <defs
      id="defs33934" />
   <sodipodi:namedview
@@ -47,7 +47,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -156,15 +156,9 @@
       <tspan
          style="font-size:53.23419571px;font-variant:normal;font-weight:bold;font-stretch:condensed;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#00467f;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Interstate;-inkscape-font-specification:Interstate-BlackCondensed"
          sodipodi:role="line"
-         id="tspan20438-6"
          x="-297.64432"
-         y="379.39343">Risk Level</tspan>
-      <tspan
-         style="font-size:53.23419571px;font-variant:normal;font-weight:bold;font-stretch:condensed;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#00467f;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Interstate;-inkscape-font-specification:Interstate-BlackCondensed"
-         sodipodi:role="line"
-         x="-297.64432"
-         y="445.93619"
-         id="tspan34027">of Vulnerability</tspan>
+         y="379.39343"
+         id="tspan34027">Impact</tspan>
     </text>
     <text
        id="text20436-8-0"
@@ -174,15 +168,9 @@
       <tspan
          style="font-size:53.23419571px;font-variant:normal;font-weight:bold;font-stretch:condensed;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#00467f;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Interstate;-inkscape-font-specification:Interstate-BlackCondensed"
          sodipodi:role="line"
-         id="tspan20438-1-8"
          x="367.98129"
-         y="966.82458">Difficulty to</tspan>
-      <tspan
-         style="font-size:53.23419571px;font-variant:normal;font-weight:bold;font-stretch:condensed;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#00467f;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Interstate;-inkscape-font-specification:Interstate-BlackCondensed"
-         sodipodi:role="line"
-         x="367.98129"
-         y="1033.3673"
-         id="tspan34031">implement recommendation</tspan>
+         y="966.82458"
+         id="tspan34031">Severity</tspan>
     </text>
     <text
        id="text20436-80-6"
@@ -266,13 +254,7 @@
          sodipodi:role="line"
          x="37.050205"
          y="887.06525"
-         id="tspan33507-6-3-2-3">(Will seamlessly integrate</tspan>
-      <tspan
-         style="font-size:20px;font-variant:normal;font-weight:bold;font-stretch:condensed;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#00467f;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Interstate;-inkscape-font-specification:Interstate-BlackCondensed"
-         sodipodi:role="line"
-         x="37.050205"
-         y="912.06525"
-         id="tspan34033">with current practice)</tspan>
+         id="tspan34033">(Low-consequence, nlikely )</tspan>
     </text>
     <text
        id="text20436-80-9-4-4-5-9"
@@ -290,13 +272,13 @@
          sodipodi:role="line"
          x="681.39038"
          y="877.97644"
-         id="tspan33507-6-3-5-6-1">(Will cause a near perminant</tspan>
+         id="tspan34035">(Critical threat with</tspan>
       <tspan
          style="font-size:20px;font-variant:normal;font-weight:bold;font-stretch:condensed;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#00467f;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Interstate;-inkscape-font-specification:Interstate-BlackCondensed"
          sodipodi:role="line"
          x="681.39038"
          y="902.97644"
-         id="tspan34035">disruption to the organizations work)</tspan>
+         id="tspan3067">actionable vulnerabilities)</tspan>
     </text>
     <path
        style="fill:none;stroke:#929496;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"

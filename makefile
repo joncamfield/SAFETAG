@@ -72,6 +72,7 @@ audit: $(DATE_DIR)
 	@echo "Setting up a new audit in audit folder $(DATE_DIR)"
 	#@python modules/audit_setup.py --directory audit/$(DATE_DIR)
 	cp -fr templates/audit/. audit/$(DATE_DIR)/
+	cp -fr content/guides/data_assessment content/guides/device_assessment content/guides/network_* content/guides/physical_assessment content/guides/remote_assessment/ content/guides/social_engineering_exercise content/guides/vuln* audit/2015_02_06_10_38_39/vulnerabilities
 	cp theme/core.css audit/$(DATE_DIR)/build/core.css
 
 $(DATE_DIR):

@@ -4,7 +4,8 @@
 
 !INCLUDE "report/front_matter/cover_page.md"
 
-\newpage
+!INCLUDE "../../../content/guides/introduction.md"
+
 <!-- Confidentiality Statement -->
 
 !INCLUDE "report/front_matter/confidentiality_statement.md"

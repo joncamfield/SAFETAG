@@ -269,3 +269,6 @@ div.titlepage+div.indexnote+div.index {
     column-gap: 12pt;
 }
 */
+
+/*Latex auto-adds captions to formulae, let's hide them*/
+figcaption {display:none;}
