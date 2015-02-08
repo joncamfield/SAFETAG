@@ -81,6 +81,11 @@
 !INCLUDE "content/assessment_plan.adids.md"
 
 \newpage
+<!-- Audit Preparation  -->
+
+!INCLUDE "content/preparation.adids.md"
+
+\newpage
 
 # PART TWO: The Audit
 
@@ -90,11 +95,6 @@
 <!-- Remote Assessment -->
 
 !INCLUDE "content/remote_assessment.adids.md"
-
-\newpage
-<!-- Audit Preparation  -->
-
-!INCLUDE "content/preparation.adids.md"
 
 \newpage
 <!-- Risk Modeling -->
