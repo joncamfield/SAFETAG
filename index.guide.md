@@ -171,9 +171,10 @@
 
 !INCLUDE "content/guides/interviews/examples/interview_questions.md"
 
-## Travel Checklist
-
 !INCLUDE "content/guides/preparation/examples/travel_kit_checklist.md"
+
+!INCLUDE "content/guides/assessment_plan/examples/draft_engagement_agreement.md"
+
 
 # APPENDIX B
 

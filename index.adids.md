@@ -212,6 +212,6 @@ Footnotes
 
 ## Agreement Template
 
-!INCLUDE "content/guides/assessment_plan/draft_engagement_agreement.md"
+!INCLUDE "content/guides/assessment_plan/examples/draft_engagement_agreement.md"
 
 \newpage
