@@ -167,8 +167,6 @@
 
 # APPENDIX A: Audit Preparation
 
-## Interview Resources
-
 !INCLUDE "content/guides/interviews/examples/outputs_needed.md"
 
 !INCLUDE "content/guides/interviews/examples/interview_questions.md"

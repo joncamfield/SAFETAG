@@ -1,8 +1,4 @@
-### Walkthrough
-
-
-#### Router Based Attacks
-
+#### Walkthrough
 
   * Find the router (route works well for this)
   * Default Passwords
