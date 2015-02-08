@@ -48,12 +48,6 @@
 
 \newpage
 
-### Example
-
-!INCLUDE "guides/preparation/examples/travel_kit_checklist.md"
-
-\newpage
-
-### Example
+### Examples
 
 !INCLUDE "guides/preparation/examples/dictionary_creation.md"
