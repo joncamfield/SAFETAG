@@ -45,5 +45,10 @@
 !INCLUDE "references/network_mapping_methods.md"
 
 ### Examples
+!INCLUDE "guides/network_mapping/examples/router_attacks/index.md"
 
-!INCLUDE "guides/vulnerability_scanning/examples/openvas/index.md"
+!INCLUDE "guides/network_mapping/examples/scanning/index.md"
+
+!INCLUDE "guides/network_mapping/examples/traffic_monitoring/index.md"
+
+!INCLUDE "guides/network_mapping/examples/mail/index.md"

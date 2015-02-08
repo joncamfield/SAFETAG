@@ -24,3 +24,5 @@ Service research
 exploit/vuln db research
 
 * OpenVas Scans against selected internal and public servers
+
+!INCLUDE "openvas.md"
