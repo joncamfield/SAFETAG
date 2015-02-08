@@ -52,12 +52,6 @@
 
 !INCLUDE "references/recon-ng.md"
 
-!INCLUDE "references/nmap_scanning.md"
-
-!INCLUDE "references/web_vuln_scanning.md"
-
-!INCLUDE "references/service_vuln_scanning.md"
-
 \newpage
 
 ### Example

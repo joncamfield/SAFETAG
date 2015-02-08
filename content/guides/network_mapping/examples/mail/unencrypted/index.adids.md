@@ -1,7 +1,3 @@
----
-type: ADIDS
-id: audit-external-mail-adids-index
-...
 
 !INCLUDE "./summary.md"
 
