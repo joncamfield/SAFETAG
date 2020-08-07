@@ -1,16 +1,17 @@
 ---
 Approach:
-- Interpersonal
+  - Interpersonal
 Authors:
-- SAFETAG
+  - SAFETAG
 Org_size_under:
-- 1000
+  - 1000
 Remote_options:
-- Complete
+  - Complete
+title: Assessment Plan
 Skills_required:
-- N/A
+  - N/A
 Time_required_minutes:
-- 120
+  - 120
 ---
 
 #### Assessment Plan
