@@ -1,16 +1,17 @@
 ---
 Approach:
-- unknown
+  - unknown
 Authors:
-- SAFETAG
+  - SAFETAG
 Org_size_under:
-- 25
+  - 25
 Remote_options:
-- with-support
+  - with-support
 Skills_required:
-- System Administration
+  - System Administration
+title: Check Config Files
 Time_required_minutes:
-- 60
+  - 60
 ---
 
 #### Check Config Files
