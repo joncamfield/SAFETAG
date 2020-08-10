@@ -1,4 +1,7 @@
 ---
+activities:
+  - Automated Reconnaissance
+  - Insecure Email Connections
 title: Advanced Threat
 summary: This component allows the auditor to be able to identify, triage, and
   analyze suspicious behavior on a device or in a network. Depending on the
