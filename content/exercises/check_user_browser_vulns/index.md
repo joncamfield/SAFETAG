@@ -11,6 +11,7 @@ Skills_required:
 - N/A
 Time_required_minutes:
 - 30
+title: Check Browser and Plugin Vulnerabilities
 ---
 
 #### Check Browser and Plugin Vulnerabilities

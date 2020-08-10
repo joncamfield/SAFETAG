@@ -11,6 +11,7 @@ Skills_required:
 - N/A
 Time_required_minutes:
 - 60
+title: Assessing Usage of Cloud Services 
 ---
 
 #### Assessing Usage of Cloud Services

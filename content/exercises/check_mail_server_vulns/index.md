@@ -11,6 +11,7 @@ Skills_required:
 - sslstrip, traffic monitoring
 Time_required_minutes:
 - 30
+title: Insecure Email Connections
 ---
 
 #### Insecure Email Connections
