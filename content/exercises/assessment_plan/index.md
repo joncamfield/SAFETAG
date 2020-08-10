@@ -1,13 +1,14 @@
 ---
+method: Advanced Threat
+Remote_options:
+  - Complete
+title: Assessment Plan
 Approach:
   - Interpersonal
 Authors:
   - SAFETAG
 Org_size_under:
   - 1000
-Remote_options:
-  - Complete
-title: Assessment Plan
 Skills_required:
   - N/A
 Time_required_minutes:
