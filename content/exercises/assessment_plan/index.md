@@ -1,5 +1,8 @@
 ---
-method: Advanced Threat
+method:
+  - Responsive Support
+  - Advanced Threat
+  - Operational Security
 Remote_options:
   - Complete
 title: Assessment Plan
