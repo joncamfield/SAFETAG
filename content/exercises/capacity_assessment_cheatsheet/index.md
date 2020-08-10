@@ -1,16 +1,17 @@
 ---
 Approach:
-- Research
+  - Research
 Authors:
-- SAFETAG
+  - SAFETAG
 Org_size_under:
-- 50
+  - 50
 Remote_options:
-- Partial
+  - Partial
 Skills_required:
-- N/A
+  - N/A
+title: Capacity Assessment Checklist
 Time_required_minutes:
-- 30
+  - 30
 ---
 
 #### Capacity Assessment Checklist
