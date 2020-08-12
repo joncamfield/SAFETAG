@@ -1,4 +1,7 @@
 ---
+activities:
+  - Assessing Usage of Cloud Services
+  - Testing field entries
 title: Operational Security
 summary: The organizational security methodology is focused on how to mitigate
   against threats that occur because of the arrangement of digital assets in the
