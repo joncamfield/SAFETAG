@@ -3,19 +3,24 @@ method:
   - Responsive Support
   - Advanced Threat
   - Operational Security
+required_skills:
+  - Digital Forensics
+  - Traffic Monitoring
 Remote_options:
   - Complete
-title: Assessment Plan
-Approach:
-  - Interpersonal
+summary: k;ajsdklajsdlkajsd
 Authors:
   - SAFETAG
+Approach:
+  - Interpersonal
+title: Assessment Plan
+overview: asljkdasldkjaslkjd
 Org_size_under:
   - 1000
-Skills_required:
-  - N/A
 Time_required_minutes:
   - 120
+Skills_required:
+  - N/A
 ---
 
 #### Assessment Plan
