@@ -1,16 +1,20 @@
 ---
-Approach:
-- Technical
+remote_options: Complete
+summary: a
 Authors:
-- SAFETAG
-Org_size_under:
-- 1000
-remote_options:
-- Complete
-Skills_required:
-- OSINT Tools
+  - SAFETAG
+Approach:
+  - Technical
+organization_size: 50 to 100 people
+time_required: 100
 Time_required_minutes:
-- 240
+  - 240
+Org_size_under:
+  - 1000
+title: Automated Recon
+overview: a
+Skills_required:
+  - OSINT Tools
 ---
 #### Automated Reconnaissance
 
