@@ -1,3 +1,3 @@
 ---
-title: 25 - 50 people
+title: 25 to 50 people
 ---
