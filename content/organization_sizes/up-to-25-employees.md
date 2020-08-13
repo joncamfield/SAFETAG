@@ -1,3 +1,3 @@
 ---
-title: Up to 25 employees
+title: < 25 people
 ---
