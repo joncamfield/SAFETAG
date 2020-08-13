@@ -1,17 +1,16 @@
 ---
 Approach:
-  - Technical
+- Technical
 Authors:
-  - SAFETAG
+- SAFETAG
 Org_size_under:
-  - 1000
-Remote_options:
-  - Complete
-title: Automated Reconnaissance
+- 1000
+remote_options:
+- Complete
 Skills_required:
-  - OSINT Tools
+- OSINT Tools
 Time_required_minutes:
-  - 240
+- 240
 ---
 #### Automated Reconnaissance
 
