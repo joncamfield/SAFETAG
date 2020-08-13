@@ -1,3 +1,3 @@
 ---
-title: Over 1000 employees
+title: "> 1000 people"
 ---
