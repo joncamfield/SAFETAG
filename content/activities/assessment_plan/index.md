@@ -6,26 +6,38 @@ method:
 required_skills:
   - Digital Forensics
   - Traffic Monitoring
+remote_options: None
 Remote_options:
   - Complete
-summary: |-
-  k;ajsdklajsdlkajsd This is *markdown*
-
-
-
-  *[\](google.com)*
+summary: Commodo in ex eiusmod esse ullamco amet. Laborum sint magna in do est
+  ullamco exercitation fugiat. Anim irure fugiat ex nisi ad labore. Ea ex in
+  tempor proident sint sit Lorem reprehenderit eu enim. Cupidatat sunt
+  reprehenderit quis excepteur eiusmod. Qui qui enim do consequat minim.
 Authors:
   - SAFETAG
+authors:
+  - Neil Blazevic
 Approach:
   - Interpersonal
-title: Assessment Plan
-overview: asljkdasldkjaslkjd
-Org_size_under:
-  - 1000
+skills_trained:
+  - OSINT Tools
+  - System Administration
+organization_size:
+  - 50 to 100 people
+  - 25 to 50 people
+time_required: 60
 Time_required_minutes:
   - 120
+Org_size_under:
+  - 1000
+title: Assessment Plan
+approaches: Interpersonal
+overview: asljkdasldkjaslkjd
 Skills_required:
   - N/A
+skills_required:
+  - OSINT Tools
+  - System Administration
 ---
 
 #### Assessment Plan
