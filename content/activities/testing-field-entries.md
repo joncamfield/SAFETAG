@@ -1,12 +1,10 @@
 ---
-title: Testing field entries
-summary: A summary **with some bold text.**
-overview: |-
-  An overview
+remote_options: Complete
+organization_size_under: 5000
+summary: |-
+  A summary **with some bold text.**
 
-  * A list
-
-    * With an indented bullet
+  - a
 materials_needed: |-
   * Materials are needed
 
@@ -17,11 +15,17 @@ materials_needed: |-
     That are needed
 
     written in rich text editor
+duration_in_minutes: 72
+time_required: 444
+Time_required_minutes: 90
+Org_size_under: 788
+title: Testing field entries
+overview: |-
+  - 1
+  - 2
+  - 3
 Considerations: This is the consideration section
 walkthrough: The walkthrough section `with inline code`
 recommendations: Recommendations [with a link](google.com)
-Org_size_under: 788
-duration_in_minutes: 72
-Time_required_minutes: 90
 ---
 What goes in the body?
