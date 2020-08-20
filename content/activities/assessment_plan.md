@@ -1,12 +1,16 @@
 ---
 title: Assessment Plan
-approaches: Interpersonal
+approaches:
+  - Interpersonal
 authors:
   - SAFETAG
-remote_options: Complete
+remote_options:
+  - Complete
+skills_required: []
+skills_trained: []
 organization_size_under: 1000
-time_required: 120
-summary: >-
+time_required_minutes: 120
+summary: >
   This component allows an auditor and host to come to an understanding of the
   level of access that an auditor will have, what is off limits, and the process
   for modifying the scope of the audit when new information arises.
@@ -15,8 +19,14 @@ summary: >-
   plan with key members of the organization.
 
 
-  A core tenet of SAFETAG is building agency in organizations to improve their digital security. To that end, collaboratively creating an assessment plan with the organization helps to clarify not only the audit scope - from discussing what sensitive data may be exposed to what systems may be disrupted in the process of the audit - but it also helps reveal the ability of the organization to support and respond to the audit findings.
-overview: >-
+  A core tenet of SAFETAG is building agency in organizations to improve their
+  digital security. To that end, collaboratively creating an assessment plan
+  with the organization helps to clarify not only the audit scope - from
+  discussing what sensitive data may be exposed to what systems may be disrupted
+  in the process of the audit - but it also helps reveal the ability of the
+  organization to support and respond to the audit findings.
+overview: >
+
   * **Create an Assessment Plan:** Have a "scoping" meeting that outlines the
   level of access that an auditor will have, what is off limits, and the process
   for modifying the scope of the audit when new information arises.
@@ -27,14 +37,18 @@ overview: >-
     * Codify data security standards for audit communication and evidence handling. [^PETS_evidence_handling]
     * Establish confidentiality and non-disclosure clauses
     * If funded externally, identify what should be reported to external funder. [^external_funding_and_reporting]
-materials_needed: "* To use the optional SAFETAG Agreement Generator, a
-  Debian-based Linux system with python and other requirements are required as
-  detailed in the [Agreement Generator
-  README](https://github.com/SAFETAG/safetag_agreement_generator#installation)."
-Considerations: >-2
+materials_needed: >
+
+  * To use the optional SAFETAG Agreement Generator, a Debian-based Linux system
+  with python and other requirements are required as detailed in the [Agreement
+  Generator
+  README](https://github.com/SAFETAG/safetag_agreement_generator#installation).
+considerations: |2
+
     * Consider the threat landscape of the organization when determining secure communications channels. This may require some pre-agreement work using parts of the Context Research methodology.
     * In addition to the overall mandate to send information encrypted to the organization, also demand encrypted communication back from them. Failure to establish a secure planning channel also contributes towards a no-go situation by putting both the auditor and organization at risk.
-walkthrough: >-2
+walk_through: >2
+
     * Develop an agreement signed by both parties outlining the scope of the audit including:
       * The start and end dates of the audit.
       * The location where the on-site audit will take place. [^pets_pre-engagement_location]
@@ -48,5 +62,13 @@ walkthrough: >-2
     * A liability waiver signed by the host organization. [^PETS_permission_to_test]
     * Approval from any third parties. [^PETS_third_parties]
 
-  Auditors are encouraged to use, or at least reference, the [SAFETAG Agreement Generator](https://github.com/SAFETAG/safetag_agreement_generator), a python script which provides a decision tree covering the above points, and builds a basic, clear-language agreement which can be translated and formalized as needed. Sample outputs and a diagram of the full decision tree are available in the "outputs" folder of the Agreement Generator repository. This replaces the draft agreement previously part of SAFETAG.
+  Auditors are encouraged to use, or at least reference, the [SAFETAG Agreement
+  Generator](https://github.com/SAFETAG/safetag_agreement_generator), a python
+  script which provides a decision tree covering the above points, and builds a
+  basic, clear-language agreement which can be translated and formalized as
+  needed. Sample outputs and a diagram of the full decision tree are available
+  in the "outputs" folder of the Agreement Generator repository. This replaces
+  the draft agreement previously part of SAFETAG.
+recommendations: ''
 ---
+
