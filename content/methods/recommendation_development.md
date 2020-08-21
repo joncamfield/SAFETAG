@@ -9,6 +9,16 @@ authors:
   - SAFETAG
 info_provided: []
 info_required: []
+references:
+  - resource_identification
+  - Digital Security Guides
+  - Digital Security Guides
+  - Possible Financial Resources for Host Organizations
+  - Training Resources
+  - Emergency Resources
+  - Resource Lists
+  - recommendation_development
+  - identifying_recommendations
 title: Report Creation and Recommendation Development
 summary: >+
 

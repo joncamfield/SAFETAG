@@ -10,6 +10,8 @@ authors:
   - SAFETAG
 info_provided: []
 info_required: []
+references:
+  - data_assessment
 title: Data Assessment
 summary: >
   This component allows the auditor to identify what sensitive data exists for

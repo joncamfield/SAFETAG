@@ -10,6 +10,9 @@ authors:
   - SAFETAG
 info_provided: []
 info_required: []
+references:
+  - Malware Analysis
+  - Digital Forensics
 title: Responding to Advanced Threats
 summary: >
   This component allows the auditor to be able to identify, triage, and analyze

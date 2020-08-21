@@ -4,6 +4,11 @@ authors:
   - SAFETAG
 info_provided: []
 info_required: []
+references:
+  - Facilitation Preparation
+  - Digital Security Trainings
+  - Digital Security Guides
+  - Training Resources
 title: Responsive Support
 summary: >
 

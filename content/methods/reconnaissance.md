@@ -8,6 +8,12 @@ authors:
   - SAFETAG
 info_provided: []
 info_required: []
+references:
+  - Open Source Intelligence (General)
+  - Organizational Information Gathering
+  - Searching
+  - Pastebin Searching
+  - Recon-ng
 title: Reconnaissance
 summary: >
   The remote assessment methodology focuses on direct observation of an

@@ -12,6 +12,9 @@ authors:
   - SAFETAG
 info_provided: []
 info_required: []
+references:
+  - operational_security
+  - operational_security
 title: Physical and Operational Security
 summary: >
 

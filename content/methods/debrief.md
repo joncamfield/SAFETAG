@@ -3,6 +3,9 @@ authors:
   - SAFETAG
 info_provided: []
 info_required: []
+references:
+  - debrief
+  - Facilitation Preparation
 title: Debrief
 summary: >
 

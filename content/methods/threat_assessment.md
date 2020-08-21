@@ -12,6 +12,12 @@ authors:
   - SAFETAG
 info_provided: []
 info_required: []
+references:
+  - Threat Assessment Activities
+  - Threat Modeling Resources (General)
+  - Threat research by focus area
+  - Threat research by method
+  - General Threats by Region
 title: Threat Assessment
 summary: >
 

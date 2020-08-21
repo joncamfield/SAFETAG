@@ -6,6 +6,8 @@ authors:
   - SAFETAG
 info_provided: []
 info_required: []
+references:
+  - Other Context Analysis Methodologies
 title: Context Research
 summary: >
   This component allows the auditor to identify the relevant regional and

@@ -9,6 +9,13 @@ authors:
   - SAFETAG
 info_provided: []
 info_required: []
+references:
+  - risk_modeling
+  - Threat Modeling Resources (General)
+  - Risk Assessment Activities
+  - Threat Assessment Activities
+  - Risk Matrix Activities
+  - Alternative Risk Modeling Activities
 title: Process Mapping and Risk Modeling
 summary: >
   This component allows an auditor to lead the host organization's staff in a

@@ -10,6 +10,17 @@ authors:
   - SAFETAG
 info_provided: []
 info_required: []
+references:
+  - preparation
+  - Facilitation Preparation
+  - Creating Agreements and Rules of Engagement
+  - Password Dictionary Creation
+  - Other Pre-Engagement Resources
+  - Incident Handling Resources
+  - Legal Considerations
+  - Data Security Standards
+  - Sensitive Data & Information Guides
+  - Incident Handling Resources
 title: Preparation
 summary: >
   This component consists of trip preparation activities that are needed to

@@ -13,6 +13,15 @@ authors:
   - SAFETAG
 info_provided: []
 info_required: []
+references:
+  - device_assessment
+  - Password Security
+  - Privilege Separation Across OS
+  - Examining Firewalls Across OS
+  - Identifying Software Versions
+  - Device Encryption By OS
+  - Anti-Virus Updates
+  - Identifying Odd/One-Off Services
 title: User Device Assessment
 summary: >
   This component allows the auditor to assess the security of the individual

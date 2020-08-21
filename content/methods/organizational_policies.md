@@ -12,6 +12,9 @@ info_provided:
 info_required:
   - Assets
   - Capacity
+references:
+  - Organizational Policies
+  - recommendation_development
 title: Organizational Policy Review
 summary: >
   This methodology explores existing organizational practices, informal

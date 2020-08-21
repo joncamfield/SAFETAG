@@ -8,6 +8,13 @@ authors:
   - SAFETAG
 info_provided: []
 info_required: []
+references:
+  - follow_up
+  - resource_identification
+  - Resource Lists
+  - Possible Financial Resources for Host Organizations
+  - Digital Security Trainings
+  - Emergency Resources
 title: Follow Up
 summary: >
   This component allows an auditor to explain and get feedback on their report

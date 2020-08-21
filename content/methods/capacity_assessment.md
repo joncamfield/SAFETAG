@@ -7,6 +7,10 @@ authors:
   - SAFETAG
 info_provided: []
 info_required: []
+references:
+  - capacity_assessment
+  - interviews
+  - Background Interview Approaches
 title: Capacity Assessment
 summary: >
   In this component the auditor engages with staff through both formal

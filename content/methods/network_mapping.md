@@ -12,6 +12,11 @@ authors:
   - SAFETAG
 info_provided: []
 info_required: []
+references:
+  - Network Mapping Methods
+  - network_access
+  - Network Discovery Methods
+  - 'Nmap Scanning {#nmap-scanning}'
 title: Network Mapping
 summary: >
 
