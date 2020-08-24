@@ -5,7 +5,8 @@ activities:
   - Interviews
   - A Day in the Life
 authors:
-  - 'Carlos Guerra, Candace Lazarou'
+  - Carlos Guerra
+  - Candace Lazarou
 info_provided:
   - Capacity
   - Barriers

@@ -1,7 +1,7 @@
 ---
 title: Remote Network and User Device Assessment
 approaches:
-  - Techincal
+  - Technical
 authors:
   - SAFETAG
 remote_options:

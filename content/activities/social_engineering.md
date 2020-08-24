@@ -8,7 +8,7 @@ authors:
 remote_options:
   - Partial
 skills_required:
-  - Phshing
+  - Phishing
   - Facilitation
   - Psycho-social care
 skills_trained: []
