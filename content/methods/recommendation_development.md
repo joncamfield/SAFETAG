@@ -70,5 +70,18 @@ approaches: >
 
   * **Identify Useful Resources:** Identify resources that the organization can
   leverage to accomplish the identified recommendations.
+output: |2
+
+    * Short-term recommendations to address each vulnerability.
+    * Long-term recommendations to address each vulnerability.
+    * Summaries of why recommendations were not given for any vulnerabilities or adversaries.
+    * Lists of organizations that can assist the host accomplish their task.
+    * Lists of educational resources the organization can use for training.
+    * Contact information for recommended trainers who can help with digital security training.
+operational_security: |2
+
+    * Treat the data and analyses of this step with the utmost security.
+    * Use VPNs or Tor to search if conducting the search from a country that is highly competitive with the organization's country, or is known to surveil.
+    * Do not share any organization information or data when reaching out to possible resources.
 ---
 

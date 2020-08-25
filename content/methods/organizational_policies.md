@@ -84,6 +84,16 @@ approaches: >
 
   * Informal 1:1 discussions and technical verification of the implementation of
   any mentioned agreements
+output: >
+
+  * List of existing agreements and policies and their gaps
+
+  * Resources to formalize/expand agreements to policies
+
+  * Providing initial support to help the organization decide on and agree to
+  baseline guidance around critical digital security controls, such as an
+  Onboarding checklist, entry/exit policies, etc
+operational_security: ''
 preparation: >
 
   If (through interviews or even the audit agreement process); you have received

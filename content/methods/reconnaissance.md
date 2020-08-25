@@ -55,6 +55,18 @@ approaches: >
   * **Social Network OSINT:** Identify availability of staff partner,
   beneficiary, and current project information by searching social networks for
   information leaked about the organization.
+output: |2
+
+    * Dossier of organizational, partner, and beneficiary "open sources" information exposed online.
+      * A list of e-mail address for members of the organization.
+    * Identification and mapping of externally facing services and unintentionally exposed internal services.
+      * Possible vulnerabilities in the websites and externally facing servers of the organization.
+      * Existing information about earlier breaches identified in the paste-bin search.
+    * Follow the proper incident response plan if high risk problems are identified.
+operational_security: |2+
+
+   * While this does not focus on identifying of vulnerabilities, it may nonetheless expose certain threats, particularly with regard to publicly-accessible information that is presumed to be confidential, such as the identity of sensitive staff, the existence of sensitive partner- and funder-relationships, or the organization’s history of participation in sensitive events or travel to sensitive locations.
+
 preparation: |-
 
   This Section:

@@ -43,6 +43,16 @@ guiding_questions: >
 approaches: |2
     * Conduct Regional Context Research to identify additional adversaries not previously identified 
     * Conduct Technical Context Research to discover infrastructure issues and explore the latest cyber security trends.
+output: |2
+
+    * A summary of the most likely threats that the host and auditor may face:
+      * Possible adversaries and their capacity and willingness to act against the host,
+      * Latest general cyber-security threats,
+      * Legal risks to host and auditor conducting a SAFETAG audit.
+    * Modifications to the audit plan as necessary.
+operational_security: |2
+
+    * Use VPNs or Tor to search if conducting the search from a country that is highly competitive with the organization’s country, or is known to surveil.
 preparation: ''
 ---
 

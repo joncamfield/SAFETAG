@@ -60,6 +60,20 @@ approaches: >
   * **A Day In the Life:** Have staff walk you through a usual "day in their
   life" showing you what devices they use, how they use them, and what data they
   have to interact with to conduct their work.
+output: >
+
+  * List of all assets in the organization and whom they belong to.
+
+  * List of software running on staff devices.
+
+  * List of known vulnerabilities, and identifiable malware, that the office is
+  vulnerable to.
+
+  * List of malware found by running updated anti-virus on office computers (if
+  anti-virus installed during device inspection.)
+operational_security: |2
+
+    * Treat device assessment data as well as any additional service information learned with the utmost security
 preparation: |+
 
   #### Baseline Skills

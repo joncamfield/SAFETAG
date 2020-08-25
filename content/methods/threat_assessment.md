@@ -58,6 +58,21 @@ approaches: >
   * **Threat Mapping:**  Facilitate group activities where staff identify
   possible adversaries and the threats that they have/can leverage against the
   group.
+output: |2
+
+    * A host driven threat-matrix including the following:
+      * **Adversaries** (threat actors) with capabilities and willingness
+      * **Impacts** of attacks against **critical processes**, ranked by severity
+      * **Likelihood** of each (based on adversaries)
+    * Latest general cyber-security threats
+    * Identify existing in/formal security practices that the participants use to address risks.
+operational_security: >
+
+  * Data generated in this component is highly sensitive - in addition to
+  standard practices of saving only in encrypted containers and destroying
+  physical copy versions (stickies, etc.) ans using VPNs/Tor to conduct
+  research, also take note of the physical location where you are conducting any
+  exercises to prevent eavesdropping/viewing.
 preparation: >
 
   * Threat Identification works best grounded against mapped out organizational

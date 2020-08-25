@@ -67,6 +67,18 @@ approaches: >
   them remotely through applying one of the remote facilitation approaches
   described in the [Remote Facilitation](#appendix-remote-facilitation)
   appendix.
+output: |2
+
+    * A map of the staff's understanding of critical organizational data:
+        * what that data is,
+        * where it is stored, 
+        * who has access, 
+        * who needs access.
+operational_security: |2
+
+    * Ensure that any physical notes/drawings are erased and destroyed once digitally recorded.
+    * Ensure that any digital recordings of this process are kept secure and encrypted. 
+    * Consider who has physical and visual access to the room where this process takes place, and if the room can be secured if this activity may span long/overnight breaks.
 preparation: |
 
   * Facilitation skills or experience is useful for these exercises

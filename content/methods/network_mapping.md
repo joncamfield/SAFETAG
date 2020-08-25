@@ -61,6 +61,20 @@ approaches: >
 
   * **Wireless Range Mapping:** Map the range of the organizations wireless
   network outside of office space.
+output: |2
+
+    * The reach of and security protections in place on any wireless networks
+    * A list of hosts, servers, and other network hardware on LAN
+    * The operating systems and services on each host.
+    * Services used by the host as identified by decrypted wireless network traffic.
+    * Possible vulnerable services and practices.[^vulnerability_analysis]
+operational_security: |2
+
+    * Clarify timing and seek permission with staff - some activities can tax the network or cause disruptions.
+    * Confirm that all devices you are accessing/scanning belong to the organization.
+    * Delete all devices from your scan that do not belong to the organization.
+    * Study outputs for any obviously embarrassing personal information (especially traffic sniffing or personal devices connected to the network) before sharing.
+    * Treat captured network traffic with the utmost security and empathetic responsibility. They may contain very personal data, passwords, and more. These should not be shared except in specific, intentional samples with anyone, including the organization itself.
 preparation: >
 
   #### Baseline Skills
