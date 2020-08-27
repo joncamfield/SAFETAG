@@ -44,17 +44,6 @@ guiding_questions: >
   * Are executive / staff social media accounts in scope, and if so, are they
   compliant with the organizational social media policies? What additional
   threats do they introduce?
-approaches: >
-  * **Manual OSINT:** Identify availability of partner, beneficiary, and current
-  project information online using advanced Google searching and
-  website-scraping. [^PETS_logical_intel]
-
-  * **Recon-NG:** Use recon-ng to do automated web-based open source
-  reconnaissance. [^recon-ng_data_flow]
-
-  * **Social Network OSINT:** Identify availability of staff partner,
-  beneficiary, and current project information by searching social networks for
-  information leaked about the organization.
 output: |2
 
     * Dossier of organizational, partner, and beneficiary "open sources" information exposed online.

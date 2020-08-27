@@ -40,9 +40,6 @@ guiding_questions: >
 
   * Has any organization or individual made specific threats, or demonstrated
   intention or mindset to attack on the organization or similar organizations?
-approaches: |2
-    * Conduct Regional Context Research to identify additional adversaries not previously identified 
-    * Conduct Technical Context Research to discover infrastructure issues and explore the latest cyber security trends.
 output: |2
 
     * A summary of the most likely threats that the host and auditor may face:

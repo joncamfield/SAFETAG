@@ -51,16 +51,6 @@ guiding_questions: >
 
   * What network assets does an attacker have access to once they have gained
   access to the internal network?
-approaches: >
-
-  * **Network Mapping:** Map hosts, services, and network hardware by scanning
-  network devices.
-
-  * **Monitor Open Wireless Traffic:** Monitor wireless traffic for  handshakes,
-  beacons, and MAC addresses.
-
-  * **Wireless Range Mapping:** Map the range of the organizations wireless
-  network outside of office space.
 output: |2
 
     * The reach of and security protections in place on any wireless networks
