@@ -9,8 +9,6 @@ remote_options:
 skills_required:
   - Digital Forensics
 skills_trained: []
-organization_size_under: 100
-time_required_minutes: 480
 summary: >
 
   This component describes how to perform an analysis on captured evidence (e.g.
@@ -138,5 +136,7 @@ walk_through: >
   in Linux, MacOS and Windows. More info and tutorials can be found
   [here](https://github.com/volatilityfoundation/volatility/wiki).
 recommendations: ''
+organization_size_under: 100
+time_required_minutes: 480
 ---
 

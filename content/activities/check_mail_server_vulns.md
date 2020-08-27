@@ -10,8 +10,6 @@ skills_required:
   - sslstrip
   - traffic monitoring
 skills_trained: []
-organization_size_under: 1000
-time_required_minutes: 30
 summary: >+
 
   A common issue with e-mail services is the lack of proper encryption. Staff
@@ -58,5 +56,7 @@ walk_through: >+
   traffic monitoring exercise.
 
 recommendations: ''
+organization_size_under: 1000
+time_required_minutes: 30
 ---
 

@@ -11,8 +11,6 @@ skills_required:
   - Surveys
   - Interviewing
 skills_trained: []
-organization_size_under: 50
-time_required_minutes: 60
 summary: >
   This activity helps the auditor assess the organization's current operational
   security policies and practices through in-person or remote surveys and/or
@@ -349,5 +347,7 @@ walk_through: >
     * Are backups tested on a regular basis?
     * When was the last time the backups were restored?
 recommendations: ''
+organization_size_under: 50
+time_required_minutes: 60
 ---
 

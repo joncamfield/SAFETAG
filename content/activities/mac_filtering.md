@@ -10,8 +10,6 @@ skills_required:
   - Wireless
   - Traffic Analysis
 skills_trained: []
-organization_size_under: 50
-time_required_minutes: 30
 summary: >
 
   Open and MAC-address-filtered wireless access points are not only open to
@@ -25,5 +23,7 @@ materials_needed: ''
 considerations: ''
 walk_through: "\nThe auditor can easily gain access to an open or MAC address filtered access point.\n\n  * MAC-Address Spoofing\n    * Start the wireless interface in monitor mode\n    * Identify MAC addresses that are on the whitelist\n\n```bash\nairodump-ng\n```\n    * Change our MAC address to one that’s on the whitelist\n\t\n```bash\nifconfig mon0 down\nmacchanger -m [MAC ADDRESS IDENTIFIED] mon0\nifconfig mon0 up\n```\n"
 recommendations: ''
+organization_size_under: 50
+time_required_minutes: 30
 ---
 

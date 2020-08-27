@@ -10,8 +10,6 @@ skills_required:
   - Wireless
   - Traffic Analysis
 skills_trained: []
-organization_size_under: 50
-time_required_minutes: 60
 summary: >
   It can be valuable to to listen to broadcast wireless traffic at  the physical
   office location, even before knowing anything about the organization's network
@@ -79,5 +77,7 @@ considerations: >
 walk_through: |+
 
 recommendations: ''
+organization_size_under: 50
+time_required_minutes: 60
 ---
 

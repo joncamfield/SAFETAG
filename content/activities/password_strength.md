@@ -9,8 +9,6 @@ remote_options:
 skills_required:
   - Password auditing
 skills_trained: []
-organization_size_under: 100
-time_required_minutes: 120
 summary: >
   This exercise supports the auditor in building an effective dictionary that is
   customized to an organization.
@@ -396,5 +394,7 @@ walk_through: >+
   characters. This will take a very, very, very long time.
 
 recommendations: ''
+organization_size_under: 100
+time_required_minutes: 120
 ---
 

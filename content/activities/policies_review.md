@@ -9,8 +9,6 @@ remote_options:
   - Complete
 skills_required: []
 skills_trained: []
-organization_size_under: 1000
-time_required_minutes: 60
 summary: >
 
   The activity aims to understand the organization internal security policy
@@ -37,5 +35,7 @@ walk_through: >
 
   3. Propose a map like the one in the Identifying Informal Agreements activity
 recommendations: ''
+organization_size_under: 1000
+time_required_minutes: 60
 ---
 

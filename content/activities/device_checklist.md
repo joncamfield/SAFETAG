@@ -10,8 +10,6 @@ remote_options:
 skills_required:
   - System Administration
 skills_trained: []
-organization_size_under: 25
-time_required_minutes: 120
 summary: >
 
   The auditor checks staff devices for updated systems and software, anti-virus
@@ -65,5 +63,7 @@ walk_through: >
 
   ___
 recommendations: ''
+organization_size_under: 25
+time_required_minutes: 120
 ---
 

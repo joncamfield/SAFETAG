@@ -9,8 +9,6 @@ remote_options:
   - 'Yes'
 skills_required: []
 skills_trained: []
-organization_size_under: 25
-time_required_minutes: 120
 summary: >
 
   The auditor interviews the staff about their practices, personal devices,
@@ -101,5 +99,7 @@ walk_through: >
 
   * Physical security
 recommendations: ''
+organization_size_under: 25
+time_required_minutes: 120
 ---
 

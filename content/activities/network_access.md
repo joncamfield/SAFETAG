@@ -10,8 +10,6 @@ skills_required:
   - password cracking
   - wireless network monitoring
 skills_trained: []
-organization_size_under: 1000
-time_required_minutes: 240
 summary: >
   This activity helps auditors to test the strength of defenses the
   organizations' network has in place to protect their local area network.
@@ -165,5 +163,7 @@ recommendations: >
   on whiteboards, given to office visitors and emailed to partners, the guest
   password should also be changed periodically. This does not have to happen
   frequently, but anything less than three or four times per year may be unsafe.
+organization_size_under: 1000
+time_required_minutes: 240
 ---
 

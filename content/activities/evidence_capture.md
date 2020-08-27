@@ -9,8 +9,6 @@ remote_options:
 skills_required:
   - Digital Forensics
 skills_trained: []
-organization_size_under: 10000
-time_required_minutes: 60
 summary: >
 
   This component briefs the tools and procedures required to acquire the image
@@ -180,5 +178,7 @@ walk_through: >
 
   ___
 recommendations: ''
+organization_size_under: 10000
+time_required_minutes: 60
 ---
 

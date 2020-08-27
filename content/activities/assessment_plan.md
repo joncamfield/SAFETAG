@@ -8,8 +8,6 @@ remote_options:
   - Complete
 skills_required: []
 skills_trained: []
-organization_size_under: 1000
-time_required_minutes: 120
 summary: >
   This component allows an auditor and host to come to an understanding of the
   level of access that an auditor will have, what is off limits, and the process
@@ -70,5 +68,7 @@ walk_through: >2
   in the "outputs" folder of the Agreement Generator repository. This replaces
   the draft agreement previously part of SAFETAG.
 recommendations: ''
+organization_size_under: 1000
+time_required_minutes: 120
 ---
 

@@ -11,8 +11,6 @@ skills_required:
   - Group Facilitation
   - Networking
 skills_trained: []
-organization_size_under: 25
-time_required_minutes: 240
 summary: >
   This component suggests approaches to use if in-person facilitation is not
   possible, and to include participation from remote staff or offices when an
@@ -136,5 +134,7 @@ walk_through: >
 
   * Test communication channels.
 recommendations: ''
+organization_size_under: 25
+time_required_minutes: 240
 ---
 

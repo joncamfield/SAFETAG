@@ -11,8 +11,6 @@ skills_required:
   - Research
   - Network Scanning
 skills_trained: []
-organization_size_under: 100
-time_required_minutes: 30
 summary: >
   VoIP technologies are commonly used nowadays as it provides an alternate
   flexible way of communication. With its numerous benefits, from toll-bypass,
@@ -45,5 +43,7 @@ walk_through: >
   https://wiki.wireshark.org/VoIP_calls (test this against a sample capture:
   https://wiki.wireshark.org/SampleCaptures?action=AttachFile&do=view&target=rtp_example.raw.gz)
 recommendations: ''
+organization_size_under: 100
+time_required_minutes: 30
 ---
 

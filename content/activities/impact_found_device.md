@@ -5,8 +5,6 @@ authors: []
 remote_options: []
 skills_required: []
 skills_trained: []
-organization_size_under: null
-time_required_minutes: null
 summary: >
   Lead staff in an activity identifying what critical data (as identified in
   during the Data Assessment) would be available if an adversary gained access

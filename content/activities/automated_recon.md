@@ -9,8 +9,6 @@ remote_options:
 skills_required:
   - OSINT Tools
 skills_trained: []
-organization_size_under: 1000
-time_required_minutes: 240
 summary: >+
   This component allows the auditor to quickly identify publicly available
   resources (such as websites, extranets, email servers, but also social media
@@ -65,5 +63,7 @@ walk_through: >
 
   ___
 recommendations: ''
+organization_size_under: 1000
+time_required_minutes: 240
 ---
 

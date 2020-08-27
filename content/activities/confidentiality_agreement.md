@@ -8,8 +8,6 @@ remote_options:
   - Complete
 skills_required: []
 skills_trained: []
-organization_size_under: 1000
-time_required_minutes: 60
 summary: >
   Negotiate an agreement with the organization that outlines how an auditor will
   protect the privacy of the organization and the outcomes of the audit.
@@ -31,5 +29,7 @@ walk_through: >
   advanced and flexible "plain language" agreement text and guidance on
   selecting which clauses to include.
 recommendations: ''
+organization_size_under: 1000
+time_required_minutes: 60
 ---
 

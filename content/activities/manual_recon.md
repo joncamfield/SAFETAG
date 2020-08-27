@@ -10,8 +10,6 @@ remote_options:
 skills_required:
   - OSINT Research
 skills_trained: []
-organization_size_under: 100
-time_required_minutes: 240
 summary: >
   This exercise suggests some targeted online search tools and tricks to gather
   information leakages from organizations.  While many advocacy, activism, and
@@ -61,5 +59,7 @@ walk_through: >
   finding information that the organization may not want online? Are there other
   methods which might be more appropriate to apply?
 recommendations: ''
+organization_size_under: 100
+time_required_minutes: 240
 ---
 

@@ -6,8 +6,6 @@ authors:
 remote_options: []
 skills_required: []
 skills_trained: []
-organization_size_under: unknown
-time_required_minutes: unknown
 summary: >
 
   Data and meta-data about an organization and its staff is incredibly difficult

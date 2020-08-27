@@ -10,8 +10,6 @@ skills_required:
   - Interviewing
   - Surveys
 skills_trained: []
-organization_size_under: 50
-time_required_minutes: 45
 summary: >
 
   The auditor checks for the type of mobile devices in the organizations
@@ -144,5 +142,7 @@ walk_through: >
 
   * What is the financial implication of maintaining these devices?
 recommendations: ''
+organization_size_under: 50
+time_required_minutes: 45
 ---
 

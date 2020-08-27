@@ -8,8 +8,6 @@ remote_options:
   - with-support
 skills_required: []
 skills_trained: []
-organization_size_under: 50
-time_required_minutes: 60
 summary: >
 
   This activity seeks to identify potential physical vulnerabilities to an
@@ -119,5 +117,7 @@ walk_through: >
     * What is nearby the office? Is it in a shared/open/co-working space? Is it in an office building? A home? An apartment? What floor of the building is the office on?  What else is nearby (other offices? Residential buildings, restaurants/cafes)?
     * If you discovered your office had been broken in to, what would your first guess of where or how the burglar broke in be?
 recommendations: ''
+organization_size_under: 50
+time_required_minutes: 60
 ---
 

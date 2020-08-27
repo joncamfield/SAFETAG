@@ -10,8 +10,6 @@ skills_required:
   - Facilitation
   - Risk Assessment
 skills_trained: []
-organization_size_under: 100
-time_required_minutes: 90
 summary: >
 
   Key to evaluating risk is identifying and understanding what the organization
@@ -154,5 +152,7 @@ walk_through: >
   or stolen device and backups, the impact of a data leak or exposure of certain
   information assets
 recommendations: ''
+organization_size_under: 100
+time_required_minutes: 90
 ---
 

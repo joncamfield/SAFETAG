@@ -9,8 +9,6 @@ remote_options:
 skills_required:
   - Malware Analysis
 skills_trained: []
-organization_size_under: 100
-time_required_minutes: 120
 summary: >
   Malware is a common tactic to target organizations. Malware like a Remote
   Access Trojan (or RAT) can provide an attacker with backdoor access to a
@@ -150,5 +148,7 @@ walk_through: >
 
   ___
 recommendations: ''
+organization_size_under: 100
+time_required_minutes: 120
 ---
 

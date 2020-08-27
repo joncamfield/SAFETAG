@@ -10,8 +10,6 @@ remote_options:
 skills_required:
   - Surveys
 skills_trained: []
-organization_size_under: 1000
-time_required_minutes: 30
 summary: >
 
 
@@ -42,5 +40,7 @@ walk_through: >
   This exercise provides a simple survey you can implement in a variety of
   settings (Google Forms, SurveyMonkey, via plain documents, etc.).
 recommendations: ''
+organization_size_under: 1000
+time_required_minutes: 30
 ---
 

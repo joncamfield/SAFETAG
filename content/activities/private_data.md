@@ -10,8 +10,6 @@ skills_required:
   - Group Facilitation
   - Risk Assessment
 skills_trained: []
-organization_size_under: 25
-time_required_minutes: 60
 summary: >
   Guide staff through an activity to have them list private data within the
   organization (e.g. Using the "personal information to keep private" handout.
@@ -39,5 +37,7 @@ walk_through: >
   Anonymization
   Checklist](https://docs.google.com/spreadsheets/d/1Qf90P7dlXL6bwfG9vDpapQe1HUD1PtCqjJwayn0xOkQ/edit?usp=sharing)
 recommendations: ''
+organization_size_under: 25
+time_required_minutes: 60
 ---
 

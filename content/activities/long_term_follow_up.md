@@ -9,8 +9,6 @@ remote_options:
 skills_required:
   - Report writing
 skills_trained: []
-organization_size_under: 100
-time_required_minutes: 120
 summary: >
   Follow up with host after a few months to check on progress, get long-term
   feedback and connect with any new resources.
@@ -33,5 +31,7 @@ walk_through: >
   connection points to any resources or connections they need to remove barriers
   to adoption.
 recommendations: ''
+organization_size_under: 100
+time_required_minutes: 120
 ---
 

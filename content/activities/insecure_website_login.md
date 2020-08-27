@@ -9,8 +9,6 @@ remote_options:
 skills_required:
   - Vulnerability Scanning
 skills_trained: []
-organization_size_under: 1000
-time_required_minutes: 15
 summary: |
 
   Administrative and user passwords on the site are submitted unencrypted.
@@ -48,5 +46,7 @@ walk_through: >
   Most CMS systems have a standard login path (for Drupal, it’s /user/login, for
   example). Then, attempt to access this page through an SSL connection.
 recommendations: ''
+organization_size_under: 1000
+time_required_minutes: 15
 ---
 

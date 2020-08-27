@@ -9,8 +9,6 @@ remote_options:
 skills_required:
   - Interviewing
 skills_trained: []
-organization_size_under: 50
-time_required_minutes: 120
 summary: >
   The auditor conducts interviews with various staff members to gather
   information on the organizations risks and capacity.
@@ -80,5 +78,7 @@ walk_through: >
     * What is the organization’s working language? (for password dictionary)
     * Why are you having the audit done?
 recommendations: ''
+organization_size_under: 50
+time_required_minutes: 120
 ---
 

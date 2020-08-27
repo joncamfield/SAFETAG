@@ -11,8 +11,6 @@ skills_required:
   - Traffic Analysis
   - Password auditing
 skills_trained: []
-organization_size_under: 1000
-time_required_minutes: 60
 summary: >
 
   WPS was built as an addition to WPA to make it easier to add devices without
@@ -33,5 +31,7 @@ walk_through: |2
     * Use Wash to find WPS Routers
     * Start Reaver : estimated time: Between 2 and 10 hours
 recommendations: ''
+organization_size_under: 1000
+time_required_minutes: 60
 ---
 

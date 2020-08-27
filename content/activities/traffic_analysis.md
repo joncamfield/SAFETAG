@@ -10,8 +10,6 @@ skills_required:
   - Traffic Analysis
   - Malware Analysis
 skills_trained: []
-organization_size_under: 100
-time_required_minutes: 240
 summary: >+
 
   Any content that is sent out over the network without encryption is easy to
@@ -50,5 +48,7 @@ considerations: >
   the organization itself.
 walk_through: ''
 recommendations: ''
+organization_size_under: 100
+time_required_minutes: 240
 ---
 

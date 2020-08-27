@@ -9,8 +9,6 @@ remote_options:
 skills_required:
   - Networking
 skills_trained: []
-organization_size_under: 25
-time_required_minutes: 120
 summary: >
   This component allows the auditor to work remotely to identify the devices on
   a host's network, the services that are being used by those devices, and any
@@ -22,5 +20,7 @@ materials_needed: ''
 considerations: ''
 walk_through: ''
 recommendations: ''
+organization_size_under: 25
+time_required_minutes: 120
 ---
 

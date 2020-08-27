@@ -11,8 +11,6 @@ skills_required:
   - Fundraising
   - Report writing
 skills_trained: []
-organization_size_under: 1000
-time_required_minutes: 60
 summary: >
   In this component the auditor documents resources that the host may be able to
   leverage to address the technical, regulatory, organizational, or behavioral
@@ -44,5 +42,7 @@ walk_through: >
     * Lists of educational resources the organization can use for training.
     * Contact information for recommended trainers who can help with digital security training.
 recommendations: ''
+organization_size_under: 1000
+time_required_minutes: 60
 ---
 

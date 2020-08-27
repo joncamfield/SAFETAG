@@ -13,8 +13,6 @@ skills_required:
   - Research
   - Digital Forensics
 skills_trained: []
-organization_size_under: 100
-time_required_minutes: 480
 summary: >
   Incident Response setups up a procedure for identifying what counts as an
   incident during an audit, as well as incident handling and response in the
@@ -60,5 +58,7 @@ walk_through: >
 
   ___
 recommendations: ''
+organization_size_under: 100
+time_required_minutes: 480
 ---
 

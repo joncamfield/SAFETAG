@@ -8,8 +8,6 @@ remote_options:
   - Partial
 skills_required: []
 skills_trained: []
-organization_size_under: 25
-time_required_minutes: 30
 summary: >
   During this component an auditor tours the audit location(s) and flags
   potential risks related to physical access at that location.
@@ -95,5 +93,7 @@ walk_through: >
   doors to server rooms/closets locked?  Are keys to these locked cabinets/rooms
   visible?
 recommendations: ''
+organization_size_under: 25
+time_required_minutes: 30
 ---
 

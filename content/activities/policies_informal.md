@@ -10,8 +10,6 @@ remote_options:
   - Complete
 skills_required: []
 skills_trained: []
-organization_size_under: 1000
-time_required_minutes: 60
 summary: >
 
   The activity aims to assess which kind of informal agreements regarding best
@@ -86,5 +84,7 @@ walk_through: >
 
   * What needs to be updated or defined
 recommendations: ''
+organization_size_under: 1000
+time_required_minutes: 60
 ---
 

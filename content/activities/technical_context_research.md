@@ -12,8 +12,6 @@ skills_required:
   - Malware analysis
   - Risk Assessment
 skills_trained: []
-organization_size_under: 1000
-time_required_minutes: 480
 summary: >
   This exercise focuses on research into the technical capacity of potential
   threat actors, including both historical attack data and any indicators of
@@ -187,5 +185,7 @@ walk_through: >
       * **Definition and Guiding Questions**: Likelihood of (non-host nation) theft of user or office devices
       * **Useful Data Sources**: OSAC reports [https://www.osac.gov/Pages/ContentReports.aspx?cid=2](https://www.osac.gov/Pages/ContentReports.aspx?cid=2) , Pinkerton Risk Index [https://www.pinkerton.com/risk-index/](https://www.pinkerton.com/risk-index/) ,
 recommendations: ''
+organization_size_under: 1000
+time_required_minutes: 480
 ---
 

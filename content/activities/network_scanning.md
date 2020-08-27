@@ -9,8 +9,6 @@ remote_options:
 skills_required:
   - Network Mapping
 skills_trained: []
-organization_size_under: 100
-time_required_minutes: 120
 summary: >
   Network scanning is a technique used to gather information about devices
   connected on a certain network. It involves enumerating open ports and
@@ -78,5 +76,7 @@ walk_through: >
   additional scripts you choose, and focus your exploration (in nmap) on scripts
   categorized as "safe".
 recommendations: ''
+organization_size_under: 100
+time_required_minutes: 120
 ---
 

@@ -9,8 +9,6 @@ remote_options:
 skills_required:
   - Networking
 skills_trained: []
-organization_size_under: 100
-time_required_minutes: 15
 summary: >
 
   Many wireless routers still use the default password listed in [“Router
@@ -27,5 +25,7 @@ materials_needed: ''
 considerations: ''
 walk_through: ''
 recommendations: ''
+organization_size_under: 100
+time_required_minutes: 15
 ---
 

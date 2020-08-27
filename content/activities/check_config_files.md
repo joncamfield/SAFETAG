@@ -8,8 +8,6 @@ remote_options:
 skills_required:
   - System Administration
 skills_trained: []
-organization_size_under: 25
-time_required_minutes: 60
 summary: >
 
   Examine configuration files for vulnerabilities  using "hardening", or "common
@@ -22,5 +20,7 @@ materials_needed: ''
 considerations: ''
 walk_through: ''
 recommendations: ''
+organization_size_under: 25
+time_required_minutes: 60
 ---
 

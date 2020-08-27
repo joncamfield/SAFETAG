@@ -8,8 +8,6 @@ remote_options:
   - Complete
 skills_required: []
 skills_trained: []
-organization_size_under: 100
-time_required_minutes: 30
 summary: |
   Make introduction between host and known resources as needed.
 overview: >
@@ -41,5 +39,7 @@ walk_through: >+
 
 
 recommendations: ''
+organization_size_under: 100
+time_required_minutes: 30
 ---
 

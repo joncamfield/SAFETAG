@@ -8,8 +8,6 @@ remote_options:
   - Partial
 skills_required: []
 skills_trained: []
-organization_size_under: 50
-time_required_minutes: 30
 summary: >
 
   A monolithic, one-time interview with key staff is not always possible or
@@ -77,5 +75,7 @@ walk_through: |
    * Transporation means used to get to and from home
    * Remote access to organizational resources (VPN, shared files)
 recommendations: ''
+organization_size_under: 50
+time_required_minutes: 30
 ---
 

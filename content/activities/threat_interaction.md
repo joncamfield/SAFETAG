@@ -10,8 +10,6 @@ skills_required:
   - Group Facilitation
   - Psycho-social care
 skills_trained: []
-organization_size_under: 50
-time_required_minutes: 120
 summary: >
 
   This helps the auditor enumerate threats that the organization is concerned
@@ -67,5 +65,7 @@ walk_through: >
   meet your information gathering needs based on your interactions with the
   organization.
 recommendations: ''
+organization_size_under: 50
+time_required_minutes: 120
 ---
 

@@ -9,8 +9,6 @@ remote_options:
 skills_required:
   - Wireless
 skills_trained: []
-organization_size_under: 500
-time_required_minutes: 30
 summary: >
   This component allows the auditor to show the "visibility" of an
   organization's wireless network to determine how far the organization's
@@ -78,5 +76,7 @@ walk_through: >
 
   * http://wifianalyzer.mobi,  http://wifiheat.com/ (Android)
 recommendations: ''
+organization_size_under: 500
+time_required_minutes: 30
 ---
 

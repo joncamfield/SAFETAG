@@ -11,8 +11,6 @@ skills_required:
   - DNS
   - OSINT
 skills_trained: []
-organization_size_under: 1000
-time_required_minutes: 45
 summary: >
 
   DNS Stands for Domain Name Service. In a nutshell, what it does is translate
@@ -190,5 +188,7 @@ walk_through: >
 
   Specific instructions for selected tools/techniques follows:
 recommendations: ''
+organization_size_under: 1000
+time_required_minutes: 45
 ---
 

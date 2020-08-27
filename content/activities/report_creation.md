@@ -10,8 +10,6 @@ remote_options:
 skills_required:
   - Writing
 skills_trained: []
-organization_size_under: 1000
-time_required_minutes: 480
 summary: >
   This component consists of an auditor compiling their audit notes and
   recommendations into a comprehensive set of documents the shows the current
@@ -62,5 +60,7 @@ walk_through: |2
     * Send the report to client. [^secure_reporting]
     * Document updates to activities to submit back to SAFETAG.
 recommendations: ''
+organization_size_under: 1000
+time_required_minutes: 480
 ---
 

@@ -12,8 +12,6 @@ skills_required:
   - Facilitation
   - Psycho-social care
 skills_trained: []
-organization_size_under: 100
-time_required_minutes: 120
 summary: >
 
   This component focuses on assessing and educating organizational staff on how
@@ -54,5 +52,7 @@ walk_through: |2-
 
   ___
 recommendations: ''
+organization_size_under: 100
+time_required_minutes: 120
 ---
 

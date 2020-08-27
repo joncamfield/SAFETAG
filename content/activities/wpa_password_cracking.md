@@ -11,8 +11,6 @@ skills_required:
   - Traffic Analysis
   - Password auditing
 skills_trained: []
-organization_size_under: 1000
-time_required_minutes: 240
 summary: >
 
   The organization’s wireless Local Area Network (WLAN) protects the network and
@@ -144,5 +142,7 @@ walk_through: >
     $./john -w:password.lst -fo=wpapsk-cuda crackme
   ```
 recommendations: ''
+organization_size_under: 1000
+time_required_minutes: 240
 ---
 

@@ -10,8 +10,6 @@ remote_options:
 skills_required:
   - Writing
 skills_trained: []
-organization_size_under: 1000
-time_required_minutes: 240
 summary: >+
   This component consists of an auditor sorting their recommendations in
   relation to the organizations threats and capacity. The auditor prioritizes
@@ -62,5 +60,7 @@ walk_through: >
   that the remediation process is a continuation of the hosts existing in/formal
   security practices. [^shostack_anchoring]
 recommendations: ''
+organization_size_under: 1000
+time_required_minutes: 240
 ---
 

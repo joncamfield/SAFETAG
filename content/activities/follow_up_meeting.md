@@ -9,8 +9,6 @@ remote_options:
 skills_required:
   - Report writing
 skills_trained: []
-organization_size_under: 100
-time_required_minutes: 60
 summary: >
   Schedule and have a follow up call to discuss the audit report.  This provides
   a valuable touch-point for the organization to read the report and ask any
@@ -49,5 +47,7 @@ walk_through: >
   At the end of the call, schedule a second follow-up call to check in on their
   progress.
 recommendations: ''
+organization_size_under: 100
+time_required_minutes: 60
 ---
 

@@ -9,8 +9,6 @@ remote_options:
 skills_required:
   - CLI
 skills_trained: []
-organization_size_under: 25
-time_required_minutes: 30
 summary: >
 
   Firewire ports and expansion slots can be abused to obtain data that are
@@ -168,5 +166,7 @@ walk_through: >
   and at any time when confiscation, theft, loss or tampering are particularly
   likely.)
 recommendations: ''
+organization_size_under: 25
+time_required_minutes: 30
 ---
 

@@ -9,8 +9,6 @@ remote_options:
 skills_required:
   - Surveys
 skills_trained: []
-organization_size_under: 50
-time_required_minutes: 30
 summary: >
 
   Weak and "shared" passwords are prevalent - even after hundreds of
@@ -156,5 +154,7 @@ walk_through: >
     - [ ] No Numbers
     - [ ] I prefer not to answer.
 recommendations: ''
+organization_size_under: 50
+time_required_minutes: 30
 ---
 

@@ -12,8 +12,6 @@ skills_required:
   - Group Facilitation
   - Risk Assessment
 skills_trained: []
-organization_size_under: 25
-time_required_minutes: 120
 summary: >
 
   Doxing (also "doxxing", or "d0xing", a word derived from "documents", or
@@ -123,5 +121,7 @@ walk_through: >+
 
 
 recommendations: ''
+organization_size_under: 25
+time_required_minutes: 120
 ---
 

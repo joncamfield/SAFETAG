@@ -9,8 +9,6 @@ remote_options:
   - Complete
 skills_required: []
 skills_trained: []
-organization_size_under: 1000
-time_required_minutes: 60
 summary: >
 
   During the organizational assessment you will almost certainly come across 3rd
@@ -61,5 +59,7 @@ walk_through: >
   parallel consider ways to apply practices and policies to their use to meet
   organizational security requirements.
 recommendations: ''
+organization_size_under: 1000
+time_required_minutes: 60
 ---
 

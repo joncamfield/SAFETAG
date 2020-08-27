@@ -8,8 +8,6 @@ remote_options:
   - with-support
 skills_required: []
 skills_trained: []
-organization_size_under: 25
-time_required_minutes: 30
 summary: >
 
   Though modern browsers are better at self-updating, and the prevalence of
@@ -23,5 +21,7 @@ materials_needed: |
 considerations: ''
 walk_through: ''
 recommendations: ''
+organization_size_under: 25
+time_required_minutes: 30
 ---
 

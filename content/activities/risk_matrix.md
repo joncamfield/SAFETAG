@@ -9,8 +9,6 @@ remote_options:
 skills_required:
   - Risk Assessment
 skills_trained: []
-organization_size_under: 50
-time_required_minutes: 60
 summary: >
 
   As part of SAFETAG's dedication to building agency and supporting
@@ -100,5 +98,7 @@ walk_through: >
 
   ![Impact vs Severity](images/matrices/impact_vs_severity.svg)
 recommendations: ''
+organization_size_under: 50
+time_required_minutes: 60
 ---
 

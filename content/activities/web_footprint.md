@@ -10,8 +10,6 @@ remote_options:
 skills_required:
   - Website scanning
 skills_trained: []
-organization_size_under: 1000
-time_required_minutes: 60
 summary: >
 
   Using online tools as a starting point in assessing the auditee web
@@ -75,5 +73,7 @@ walk_through: >
 
   ___
 recommendations: ''
+organization_size_under: 1000
+time_required_minutes: 60
 ---
 

@@ -10,8 +10,6 @@ skills_required:
   - Interviewing
   - Malware Analysis
 skills_trained: []
-organization_size_under: 50
-time_required_minutes: 30
 summary: >
 
   This additional interview activity is to identify if there are any indicators
@@ -201,5 +199,7 @@ walk_through: >
   **NOTE**: Could lead to further conversations about what data they have, what
   assets are the most important, sensitive and possibly targeted
 recommendations: ''
+organization_size_under: 50
+time_required_minutes: 30
 ---
 

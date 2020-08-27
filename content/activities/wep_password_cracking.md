@@ -11,8 +11,6 @@ skills_required:
   - Traffic Analysis
   - Password auditing
 skills_trained: []
-organization_size_under: 1000
-time_required_minutes: 120
 summary: >
 
   WEP provides no effective protection for a wifi network. Most wifi routers
@@ -35,5 +33,7 @@ walk_through: >
     * Start aireplay-ng in ARP request replay mode to inject packets
     * Run aircrack-ng to crack key using the IVs collected
 recommendations: ''
+organization_size_under: 1000
+time_required_minutes: 120
 ---
 

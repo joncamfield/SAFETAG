@@ -10,8 +10,6 @@ skills_required:
   - Group Facilitation
   - Psycho-social care
 skills_trained: []
-organization_size_under: 50
-time_required_minutes: 90
 summary: >
 
   This activity assists in identifying potential physical security concerns at
@@ -147,5 +145,7 @@ walk_through: >
   * Reporting:
       * The facilitator should combine the notes and communicate them securely to the Auditor, and securely destroy the notes.
 recommendations: ''
+organization_size_under: 50
+time_required_minutes: 90
 ---
 
